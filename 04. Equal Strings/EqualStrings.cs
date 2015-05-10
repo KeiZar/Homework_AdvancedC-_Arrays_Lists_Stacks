@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 class EqualStrings
 {
-    static void Main(string[] args)
+    static void Main()
     {
         //Default user input
         string[] input = Console.ReadLine().Split(' ');
