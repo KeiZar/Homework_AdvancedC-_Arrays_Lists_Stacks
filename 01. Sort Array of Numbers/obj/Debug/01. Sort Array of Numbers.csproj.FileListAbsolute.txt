@@ -1,0 +1,5 @@
+D:\SoftUni\04.2015 - Advanced C#\Homework\Arrays, Lists, Stacks, Queues\01. Sort Array of Numbers\bin\Debug\_01.Sort_Array_of_Numbers.exe.config
+D:\SoftUni\04.2015 - Advanced C#\Homework\Arrays, Lists, Stacks, Queues\01. Sort Array of Numbers\bin\Debug\_01.Sort_Array_of_Numbers.exe
+D:\SoftUni\04.2015 - Advanced C#\Homework\Arrays, Lists, Stacks, Queues\01. Sort Array of Numbers\bin\Debug\_01.Sort_Array_of_Numbers.pdb
+D:\SoftUni\04.2015 - Advanced C#\Homework\Arrays, Lists, Stacks, Queues\01. Sort Array of Numbers\obj\Debug\_01.Sort_Array_of_Numbers.exe
+D:\SoftUni\04.2015 - Advanced C#\Homework\Arrays, Lists, Stacks, Queues\01. Sort Array of Numbers\obj\Debug\_01.Sort_Array_of_Numbers.pdb

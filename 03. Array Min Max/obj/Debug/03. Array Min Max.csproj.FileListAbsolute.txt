@@ -1,0 +1,6 @@
+D:\SoftUni\04.2015 - Advanced C#\Homework\Arrays, Lists, Stacks, Queues\03. Array Min Max\bin\Debug\_03.Array_Min_Max.exe.config
+D:\SoftUni\04.2015 - Advanced C#\Homework\Arrays, Lists, Stacks, Queues\03. Array Min Max\obj\Debug\03. Array Min Max.csprojResolveAssemblyReference.cache
+D:\SoftUni\04.2015 - Advanced C#\Homework\Arrays, Lists, Stacks, Queues\03. Array Min Max\bin\Debug\_03.Array_Min_Max.exe
+D:\SoftUni\04.2015 - Advanced C#\Homework\Arrays, Lists, Stacks, Queues\03. Array Min Max\bin\Debug\_03.Array_Min_Max.pdb
+D:\SoftUni\04.2015 - Advanced C#\Homework\Arrays, Lists, Stacks, Queues\03. Array Min Max\obj\Debug\_03.Array_Min_Max.exe
+D:\SoftUni\04.2015 - Advanced C#\Homework\Arrays, Lists, Stacks, Queues\03. Array Min Max\obj\Debug\_03.Array_Min_Max.pdb

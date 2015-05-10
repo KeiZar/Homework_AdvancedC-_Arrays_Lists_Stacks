@@ -1,0 +1,6 @@
+D:\SoftUni\04.2015 - Advanced C#\Homework\Arrays, Lists, Stacks, Queues\04. Equal Strings\bin\Debug\_04.Equal_Strings.exe.config
+D:\SoftUni\04.2015 - Advanced C#\Homework\Arrays, Lists, Stacks, Queues\04. Equal Strings\bin\Debug\_04.Equal_Strings.exe
+D:\SoftUni\04.2015 - Advanced C#\Homework\Arrays, Lists, Stacks, Queues\04. Equal Strings\bin\Debug\_04.Equal_Strings.pdb
+D:\SoftUni\04.2015 - Advanced C#\Homework\Arrays, Lists, Stacks, Queues\04. Equal Strings\obj\Debug\04. Equal Strings.csprojResolveAssemblyReference.cache
+D:\SoftUni\04.2015 - Advanced C#\Homework\Arrays, Lists, Stacks, Queues\04. Equal Strings\obj\Debug\_04.Equal_Strings.exe
+D:\SoftUni\04.2015 - Advanced C#\Homework\Arrays, Lists, Stacks, Queues\04. Equal Strings\obj\Debug\_04.Equal_Strings.pdb
